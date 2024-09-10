@@ -1,3 +1,5 @@
-num1 = int(input('Digite o valor do primeiro numero: '))
-num2 = int(input('Digite o valor do segundo numero: '))
-print(num1 + num2)
+dia = (input('Dia = '))
+mes = (input('Mês = '))
+ano = (input('Ano = '))
+
+print('Você nasceu dia ' + dia + ' de '+ mes + ' de ' + ano + ' certo?' )
